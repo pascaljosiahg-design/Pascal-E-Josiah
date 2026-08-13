@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-<body bgcolor="#2A9D8F">
+<body style="background-color: #2A9D8F;">
 <h1 align="center">Pascal E Josiah's Home Page</h1>
 
 <hr>
