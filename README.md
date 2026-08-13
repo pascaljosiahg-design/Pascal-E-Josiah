@@ -49,6 +49,9 @@ Zeeman Building, University of Warwick, Coventry, CV4 7AL, UK
 <ul>
 <li><a href="papers/index.html">Selected papers, preprints and
 talks</a></li>
+<li>
+<a href="Kollar_stable_cubics (1).pdf" target="_blank">Kollar stable cubics</a>
+</li>
 
 
 
