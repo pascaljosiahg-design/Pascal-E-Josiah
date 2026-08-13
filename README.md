@@ -1,2 +1,218 @@
-# Pascal-E-Josiah
-Pascal HomePage
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<link rel="icon" href="ECM1.ico">
+<link rel="stylesheet" href="styles.css" type="text/css">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style type="text/css"></style>
+<title>John Cremona's home page</title>
+</head>
+<body bgcolor="#FFFFFF">
+<h1 align="center">John Cremona's Home Page</h1>
+
+<hr>
+<ul>
+
+<li>
+<a href="http://www.warwick.ac.uk/fac/sci/maths">Warwick Mathematics Institute</a>,
+Zeeman Building, University of Warwick, Coventry, CV4 7AL, UK
+</li>
+<li>
+<div itemscope
+     itemtype="https://schema.org/Person"><a itemprop="sameAs"
+                                             content="https://orcid.org/0000-0002-7212-0162"
+                                             href="https://orcid.org/0000-0002-7212-0162"
+                                             target="orcid.widget"
+                                             rel="noopener noreferrer"
+                                             style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+                                                                              style="width:1em;margin-right:.5em;"
+                                                                              alt="ORCID
+                                                                                   iD
+                                                                                   icon">orcid id</a> (0000-0002-7212-0162), 
+<a href="https://arxiv.org/a/cremona_j_1.html">arXiv id</a> (cremona_j_1),
+<a href="https://github.com/JohnCremona" target="_blank">GitHub</a> (JohnCremona), 
+<a href="john.cremona.asc">GPG key </a>
+</div>
+</li>
+<li>
+Warwick Number Theory Group:
+<a href="http://www2.warwick.ac.uk/fac/sci/maths/research/interests/number_theory">Group members</a>,
+<a href="warwick_nt_genealogy.pdf">family tree</a>,
+<a href="http://www2.warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/number_theory/">Number
+  Theory Seminar</a>,
+
+<a href="http://www2.warwick.ac.uk/fac/sci/maths/research/interests/number_theory/events/">Study
+  groups and other events</a>
+</li>
+
+<li><a href="https://icerm.brown.edu/simonscollaboration/">Simons
+    Collaboration: Arithmetic Geometry, Number Theory, and
+    Computation</a>, An $8M collaborative project between Boston
+    University, Brown University, Dartmouth College, Harvard
+    University, and MIT.  (Affiliated Scientist.)
+
+
+<li><a href="http://www2.warwick.ac.uk/fac/sci/maths/people/staff/john_cremona/">JC's
+    official Mathematics Institute page</a></li>
+
+</ul>
+<hr>
+<div>
+<ul>
+<li><b><a href="book/amec.html">Algorithms for Modular Elliptic
+Curves</a></b> + <a href="book/fulltext/index.html">online
+edition</a></li>
+<li><a href="papers/index.html">Selected papers, preprints and
+talks</a></li>
+<li><a href="theses/index.html">Theses</a> by me and <a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=41909">my students</a></li>
+<li>
+Elliptic curve database:
+<ul>
+<li>Access via the <a href="http://www.lmfdb.org">LMFDB database</a>
+(recommended: here is a <a
+href="http://www.lmfdb.org/EllipticCurve/Q/random">sample elliptic curve</a>)
+<li>
+<a href="http://johncremona.github.io/ecdata/">ecdata</a>: GitHub <a
+href="https://github.com/JohnCremona/ecdata">repository</a> of data
+files, or <a href="https://github.com/JohnCremona/ecdata/archive/refs/tags/2026-04-22.tar.gz">complete
+  tarball</a>, or
+<a href="https://doi.org/10.5281/zenodo.593611"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.593611.svg" alt="DOI"></a>.
+<br>
+Cite as "John Cremona. (2026). ecdata: 2026-04-22. Zenodo. 10.5281/zenodo.7194436" or use this <a
+href="ecdata.bib">BiBTeX entry</a> for
+<tt><big><b>ecdata</b></big></tt>.
+</ul>
+</li>
+<li>Software:
+<ul>
+<li><a href="mwrank/index.html"><tt><big><b>eclib</b></big></tt></a>
+  (including <tt><big><b>mwrank</b></big></tt> and other programs):
+  archived at
+  <a href="https://doi.org/10.5281/zenodo.593635"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.593635.svg" alt="DOI"></a>
+  <br> Cite as "John Cremona et al. (2025). JohnCremona/eclib:
+  v20250616. (Version
+  20250616). Zenodo. https://doi.org/10.5281/zenodo.593635" or use
+  this <a href="eclib.bib">BiBTeX entry</a>
+  for <tt><big><b>eclib</b></big></tt>.
+
+
+<li>Other software packages of interest to number theory:
+<A HREF="http://www.flintlib.org/">FLINT</A>,
+<A HREF="http://page.math.tu-berlin.de/~kant/kash.html">KANT</A>,
+<!---
+<A HREF="http://www.informatik.tu-darmstadt.de/TI/LiDIA">LiDIA</A>,
+-->
+<A HREF="http://magma.maths.usyd.edu.au/magma/">Magma</A>,
+<A HREF="http://www.shoup.net/ntl/">NTL</A>,
+<A HREF="http://pari.math.u-bordeaux.fr/">Pari/GP</A>,
+<A HREF="http://www.sagemath.org/">Sage</A>,
+<A HREF="http://www.dpmms.cam.ac.uk/Number-Theory-Web/N1.html">more</A>
+</li>
+
+<li>
+<a href="past_meetings.html">Past conferences and meetings</a> (up to 2019)
+</ul>
+</div>
+
+<hr>
+
+<ul>
+
+  <li>Electronic Journals and Archives:
+    <ul>
+      <li><a href="http://front.math.ucdavis.edu/">MathematicsArXiv</a></li>
+    </ul>
+  </li>
+
+  <li>Mathematical Organizations:
+    <ul>
+      <li><a href="http://www.ams.org">The AMS</a></li>
+      <li><a href="http://www.maths.soton.ac.uk/EMIS/index.html">The EMS</a></li>
+      <li><a href="http://www.lms.ac.uk/">The LMS</a></li>
+      <li><a href="http://focm-society.org/">FoCM</a></li>
+    </ul>
+  </li>
+
+  <li>Mathematical Institutes:
+    <ul>
+      <li><a href="http://www.newton.cam.ac.uk/">INI</a>, Cambridge</li>
+      <li><a href="https://heilbronn.ac.uk/">HIMR</a>, Bristol</li>
+      <li><a href="http://icms.org.uk/index.php">ICMS</a> Edinburgh</li>
+      <li><a href="http://www.mfo.de/">Oberwolfach</a>, Germany</li>
+      <li><a href="http://www.dagstuhl.de/index.en.html">Dagstuhl</a>, Germany</li>
+      <li><a href="http://www.msri.org/">MSRI</a>, Berkeley CA, USA</li>
+      <li><a href="http://icerm.brown.edu/">ICERM</a>, Brown University, Providence RI, USA.</li>
+      <li><a href="http://www.fields.utoronto.ca/">The Fields Institute</a>, Toronto, Canada.
+    </ul>
+  </li>
+
+  <li>Software and data repositories
+    <ul>
+      <li><a href="https://github.com/JohnCremona" target="_blank">GitHub</a></li>
+      <li><a href="https://bitbucket.org/">BitBucket</a></li>
+    </ul>
+  </li>
+
+  <li>Other Mathematical Sites:
+    <ul>
+      <li>
+        <a href="http://www.imo-register.org.uk/">IMO register</a>
+      </li>
+      <li>
+        <a href="https://mathshistory.st-andrews.ac.uk/">History  of Mathematics</a>  +
+        <a href="https://mathshistory.st-andrews.ac.uk/OfTheDay/today/">Mathematicians
+          of the day</a>
+      </li>
+    </ul>
+  </li>
+
+</ul>
+
+<p>
+<a href="https://dx.doi.org/">DOI lookup</a>
+</p>
+<p>
+<a href="http://webcat.warwick.ac.uk/record=e1000251~S1">MathSciNet (Warwick access)</a>
+
+</p>
+<p>
+<!-- Google Scholar -->
+<form method="get" action="http://scholar.google.com/scholar">
+<table bgcolor="#FFFFFF">
+  <tr>
+    <td><a href="https://scholar.google.com/"> <img src="http://scholar.google.com/scholar/scholar_sm.gif" alt="Google Scholar" width="105" height="40" border="0" align="middle" ></a>
+    <input type="hidden" name="hl" value="en">
+    <input type="text" name="q" size="25" maxlength="255" value="" >
+    <input type="submit" name="btnG" value="Search" >
+    </td>
+  </tr>
+</table>
+</form>
+<!-- Google Scholar --> 
+</p>
+
+<hr>
+<address>John Cremona<br>
+Mathematics Institute<br>
+Zeeman Building<br>
+University of Warwick<br>
+Coventry CV4 7AL, UK<br>
+<tt>j dot e dot cremona at proton dot me</tt>
+<br>
+</address>
+
+<p>(No relation of this other <a href=
+"http://www-groups.dcs.st-and.ac.uk/~history/Posters2/Cremona.html">
+Cremona</a>)</p>
+
+ <p>
+      <a href="http://validator.w3.org/check?uri=referer"><img
+      border="1"
+          src="http://www.w3.org/Icons/valid-html401"
+          alt="Valid HTML 4.01!" height="31" width="88"></a>
+    </p>
+<hr>
+    
+</body>
+</html>
