@@ -59,7 +59,17 @@ Warwick Number Theory Group:
 <hr>
 <div>
 <ul>
-
+</ul>
+<hr>
+<div>
+<ul>
+<li><b><a href="book/amec.html">Algorithms for Modular Elliptic
+Curves</a></b> + <a href="book/fulltext/index.html">online
+edition</a></li>
+<li><a href="papers/index.html">Selected papers, preprints and
+talks</a></li>
+<li><a href="theses/index.html">Theses</a> by me and <a href="http://genealogy.math.ndsu.nodak.edu/id.php?id=41909">my students</a></li>
+<li>
 
     
 </body>
