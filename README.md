@@ -5,9 +5,8 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<body bgcolor="#2A9D8F">
 </head>
-<body bgcolor="#FFFFFF">
+<body bgcolor="#2A9D8F">
 <h1 align="center">Pascal E Josiah's Home Page</h1>
 
 <hr>
