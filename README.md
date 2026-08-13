@@ -9,7 +9,7 @@
 <title>Pascal E Josiah's home page</title>
 </head>
 <body bgcolor="#FFFFFF">
-<h1 align="center">John Cremona's Home Page</h1>
+<h1 align="center">Pascal E Josiah's Home Page</h1>
 
 <hr>
 <ul>
