@@ -32,18 +32,6 @@ Zeeman Building, University of Warwick, Coventry, CV4 7AL, UK
 <a href="https://github.com/JohnCremona" target="_blank">GitHub</a> (JohnCremona), 
 <a href="john.cremona.asc">GPG key </a>
 </div>
-</li>
-<li>
-Warwick Number Theory Group:
-<a href="http://www2.warwick.ac.uk/fac/sci/maths/research/interests/number_theory">Group members</a>,
-<a href="warwick_nt_genealogy.pdf">family tree</a>,
-<a href="http://www2.warwick.ac.uk/fac/sci/maths/research/events/seminars/areas/number_theory/">Number
-  Theory Seminar</a>,
-
-<a href="http://www2.warwick.ac.uk/fac/sci/maths/research/interests/number_theory/events/">Study
-  groups and other events</a>
-</li>
-
 <li><a href="https://icerm.brown.edu/simonscollaboration/">Simons
     Collaboration: Arithmetic Geometry, Number Theory, and
     Computation</a>, An $8M collaborative project between Boston
@@ -59,9 +47,6 @@ Warwick Number Theory Group:
 <hr>
 <div>
 <ul>
-<li><b><a href="book/amec.html">Algorithms for Modular Elliptic
-Curves</a></b> + <a href="book/fulltext/index.html">online
-edition</a></li>
 <li><a href="papers/index.html">Selected papers, preprints and
 talks</a></li>
 
