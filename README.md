@@ -5,7 +5,7 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" >
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style type="text/css"></style>
+
 </head>
 <body bgcolor="#FFFFFF">
 <h1 align="center">Pascal E Josiah's Home Page</h1>
